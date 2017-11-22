@@ -1,0 +1,23 @@
+.mainInput{
+    width: 90%;
+    height: 40px;
+    border-radius: 2px;
+    background-color: lightyellow
+}
+
+.btn-city{
+    margin-top: 10px;
+}
+
+.commentsTrash{
+    margin-left: 7%
+}
+
+.cityTrash{
+    margin-left:25%
+}
+
+
+/* .goBtn{
+    display: inline-block
+} */
